@@ -6,7 +6,7 @@ https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge
 The objective of this project is to have a MLOPS simple workflow, where the objective is to predict a car price based on its attributes.
 
 Tools used:
-VS code, docker desktop, anaconda prompt, mlflow, prefect, mlflow.
+VS code, docker desktop, anaconda prompt, mlflow and prefect.
 
 To run evidently_metrics.py, start prefect and also docker-compose.yaml
 
